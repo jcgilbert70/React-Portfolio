@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.1457a7e1.css",
+    "main.js": "/react-portfolio/static/js/main.4f034be2.js",
+    "static/js/787.a2cb61a6.chunk.js": "/react-portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/Meal-Train.PNG": "/react-portfolio/static/media/Meal-Train.6da1223958a120314fb1.PNG",
+    "static/media/email-contact-form.png": "/react-portfolio/static/media/email-contact-form.239b939cbbb0da84604b.png",
+    "static/media/news-by-ISS-project.PNG": "/react-portfolio/static/media/news-by-ISS-project.79ccb5edab997e58550a.PNG",
+    "static/media/weather-dashboard.png": "/react-portfolio/static/media/weather-dashboard.e12f3088c85bb37a582f.png",
+    "static/media/Resume.pdf": "/react-portfolio/static/media/Resume.12acdb37f0f54c91af3d.pdf",
+    "static/media/github.png": "/react-portfolio/static/media/github.8b483311caedaf4ac951.png",
+    "static/media/CANNY.PNG": "/react-portfolio/static/media/CANNY.be25f2d5e9d333e51062.PNG",
+    "static/media/linkedin2.png": "/react-portfolio/static/media/linkedin2.7fd83a620a57a9b5b259.png",
+    "static/media/password-generator.png": "/react-portfolio/static/media/password-generator.537849ab4a189d643dbd.png",
+    "static/media/work-scheduler.png": "/react-portfolio/static/media/work-scheduler.f32f3e853190aad8a9ad.png",
+    "static/media/jeff.jpg": "/react-portfolio/static/media/jeff.bb00c1353b4b466f0626.jpg",
+    "static/media/code-quiz.png": "/react-portfolio/static/media/code-quiz.13f9acec71ed50b19ca3.png",
+    "index.html": "/react-portfolio/index.html",
+    "main.1457a7e1.css.map": "/react-portfolio/static/css/main.1457a7e1.css.map",
+    "main.4f034be2.js.map": "/react-portfolio/static/js/main.4f034be2.js.map",
+    "787.a2cb61a6.chunk.js.map": "/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1457a7e1.css",
+    "static/js/main.4f034be2.js"
+  ]
+}
