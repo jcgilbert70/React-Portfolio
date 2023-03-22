@@ -31,7 +31,7 @@ export default function PortfolioPages() {
       <header className="header-wrap">
         <div className="header-container">
           <div className="logo">
-            <a href="/">
+            <a href="https://jcgilbert70.github.io/react-portfolio/">
               <h1>Jeff Gilbert</h1>
               <span>Professional Portfolio</span>
             </a>
