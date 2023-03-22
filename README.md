@@ -39,10 +39,10 @@
   ## Links
 
   Deployed Application: 
-  https://jcgilbert70.github.io/REACT-Pro-Portfolio/
+  https://jcgilbert70.github.io/react-portfolio/
 
   Repository: 
-  https://github.com/jcgilbert70/REACT-Pro-Portfolio.git
+  https://github.com/jcgilbert70/react-portfolio.git
 
 
   ## Questions
