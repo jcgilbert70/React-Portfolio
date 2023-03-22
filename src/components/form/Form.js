@@ -93,8 +93,8 @@ function Contact() {
 
   return (
     <>
-      <Form noValidate onSubmit={handleFormSubmit}>
-        <Form.Group className="mb-3" controlId="formBasicName">
+      <Form noValidate onSubmit={handleFormSubmit} id="contact-form" action="https://formsubmit.co/cd132a47f80ceb79db6e2de04f589a8e" method="POST">
+        <Form.Group className="mb-3" controlId="formBasicName" >
           <Form.Control
             type='text'
             name="fullName"
@@ -135,7 +135,7 @@ function Contact() {
         </Form.Group>
 
         <div className="text-center mt-3">
-          <Button className="formBtn" type="submit">Submit</Button> <Button className="formBtn" type="reset" onClick={handleReset}>Reset</Button>
+          <Button className="formBtn" type="submit" >Submit</Button> <Button className="formBtn" type="reset" onClick={handleReset}>Reset</Button>
         </div>
       </Form>
 
