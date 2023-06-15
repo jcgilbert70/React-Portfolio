@@ -56,7 +56,7 @@ const project = [
         caption: 'Work Scheduler',
     },
     {
-        link: 'https://jcgilbert70.github.io/work-scheduler/',
+        link: 'https://jcgilbert70.github.io/weather-dashboard/',
         repo: 'https://github.com/jcgilbert70/weather-dashboard.git',
         img: weatherDashboard,
         caption: 'Weather Dashboard',
